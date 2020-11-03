@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 h1{ font-family: sans-serif;}
 body{font-family: sans-serif;}
 body{
@@ -9,3 +10,15 @@ header{
 section{
     background-color: burlywood;
 }
+=======
+h1{ font-family: sans-serif}
+body{ font-family: sans-serif}
+body {
+    background-color:white
+}
+header{
+    background-color: burlywood
+}
+section{
+    background-color:burlywood}
+>>>>>>> Stashed changes
